@@ -19,7 +19,9 @@
 </body>
 </html>
 ```
-7. We have now made our html file, save and name the file `index.html` [(html file)](/HTML/index.html)
+7. We have now made our html file, save and name the file `index.html` 
+- [HTML file](/HTML/index.html)
+- [Website](https://c78c73.github.io/How-to-make-a-simple-WebPage/)
 8. You can now make any edits you want to the file to fit your project, CSS and JS would be some next steps for more complex projects
 9. Now create an account on Github and login
 10. Create a new public repository and name it whatever you want
