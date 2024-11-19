@@ -1,5 +1,5 @@
 # <center>*Directions*</center>
-#### <center>[Homepage](/readme/README.md)</center>
+#### <center>[Homepage](README.md)</center>
 1. Download VS-Code
 2. Open VS-Code
 3. Hit ```CTRL + N``` to open a new file
@@ -20,7 +20,7 @@
 </html>
 ```
 7. We have now made our html file, save and name the file `index.html` 
-- [HTML file](/HTML/index.html)
+- [HTML file](index.html)
 - [Website](https://c78c73.github.io/How-to-make-a-simple-WebPage/)
 8. You can now make any edits you want to the file to fit your project, CSS and JS would be some next steps for more complex projects
 9. Now create an account on Github and login

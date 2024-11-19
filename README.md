@@ -5,6 +5,6 @@
 - ### Keep in mind, GitHub Pages is for simple, static websites. 
 - ### This is intended for beginners of all ages as a simple HTML and GitHub tutorial.
 
-- #### [Click here for directions.](/Directions/Directions.md)
+- #### [Click here for directions.](Directions.md)
 
-![HTML](/readme/HTML.jpg) ![Websites](/readme/Websites.jpg)
+![HTML](HTML.jpg) ![Websites](Websites.jpg)
