@@ -1,5 +1,5 @@
 # How to make a simple web page
-## By: Gage Smith
+## By: Gage Smith (class assignment)
 
 - ### Welcome to how to make a simple Web Page. In this tutorial, we are going to go over HTML and Github Pages for hosting.
 - ### Keep in mind, that `Github Pages` is for simple, static websites. 
